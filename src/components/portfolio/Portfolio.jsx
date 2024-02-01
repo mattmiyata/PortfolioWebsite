@@ -7,7 +7,7 @@ const items = [
     id: 1,
     link: "https://polar-crag-30437-057b7f051c66.herokuapp.com/",
     git: "https://github.com/mattmiyata/YoutubeVideoDownloader",
-    img: "public/youfast-high-resolution-logo.png",
+    img: "youfast-high-resolution-logo.png",
     title: "YouFast Video Saver",
     description:
       "Link your favorite youtube videos to download them on your device!  YouFast is a server side rendered youtube downloader built with nodejs and express for the backend, EJS for the frontend, and utilizing the ytdl-core API.",
@@ -16,7 +16,7 @@ const items = [
     id: 2,
     link: "https://socketiochatserver-6ad190f163f6.herokuapp.com/",
     git: "https://github.com/mattmiyata/socketiochat",
-    img: "public/chatter-high-resolution-logo.png",
+    img: "chatter-high-resolution-logo.png",
     title: "Chatter Chat App",
     description:
       "Chatter is a easy way to chat with friends.  Create a room and enjoy instant messaging with multiple people.  Chatter is built with React frontend and nodejs and express backend utilizing the socket.io api for websocket connectivity.",
