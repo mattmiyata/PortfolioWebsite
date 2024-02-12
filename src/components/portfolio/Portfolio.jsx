@@ -5,6 +5,15 @@ import { useRef } from "react";
 const items = [
   {
     id: 1,
+    link: "https://mern-blogger-eb273b6050cf.herokuapp.com/",
+    git: "https://github.com/mattmiyata/socketiochat",
+    img: "BloggerImage.png",
+    title: "Blogger fullstack MERN Application",
+    description:
+      "Blogger is a fullstack MERN applicaiton.  It is made in React Vite for the front-end and nodeJS and Express for the back-end and MongoDB for the database server. Any user can create and account to create their own blogs and edit or delete them at will.",
+  },
+  {
+    id: 2,
     link: "https://polar-crag-30437-057b7f051c66.herokuapp.com/",
     git: "https://github.com/mattmiyata/YoutubeVideoDownloader",
     img: "youfast-high-resolution-logo.png",
@@ -13,7 +22,7 @@ const items = [
       "Link your favorite youtube videos to download them on your device!  YouFast is a server side rendered youtube downloader built with nodejs and express for the backend, EJS for the frontend, and utilizing the ytdl-core API.",
   },
   {
-    id: 2,
+    id: 3,
     link: "https://socketiochatserver-6ad190f163f6.herokuapp.com/",
     git: "https://github.com/mattmiyata/socketiochat",
     img: "chatter-high-resolution-logo.png",
