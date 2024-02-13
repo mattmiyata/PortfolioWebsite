@@ -61,7 +61,9 @@ const Contact = () => {
           <span>mattmiyata@gmail.com</span>
           <h2>Github</h2>
           <span>
-            <a href="https://github.com/mattmiyata?tab=repositories">Github</a>
+            <a href="https://github.com/mattmiyata?tab=repositories">
+              Click Here to see the Github
+            </a>
           </span>
         </motion.div>
       </motion.div>

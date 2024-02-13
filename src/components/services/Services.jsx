@@ -30,14 +30,6 @@ const Services = () => {
       ref={ref}
       animate={isInView && "animate"}
     >
-      <motion.div className="textContainer" variants={variants}>
-        <p>
-          I focus on helping you business grow
-          <br /> and move forward
-        </p>
-        <hr />
-      </motion.div>
-
       <motion.div className="titleContainer" variants={variants}>
         <div className="title">
           <h1>Web Development</h1>
