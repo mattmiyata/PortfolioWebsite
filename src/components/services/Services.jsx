@@ -20,15 +20,13 @@ const variants = {
 const Services = () => {
   const ref = useRef();
 
-  const isInView = useInView(ref, { margin: "-100px" });
-
   return (
     <motion.div
       className="services"
       variants={variants}
       initial="initial"
       ref={ref}
-      animate={isInView && "animate"}
+      animate={"animate"}
     >
       <motion.div className="titleContainer" variants={variants}>
         <div className="title">

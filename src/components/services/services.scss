@@ -20,7 +20,7 @@
     gap: 50px;
 
     h1 {
-      font-size: 96px;
+      font-size: 3.3rem;
       font-weight: 100;
       gap: 20px;
     }
@@ -35,10 +35,11 @@
   overflow: hidden;
   display: flex;
   flex-direction: row;
+  gap: 5px;
 
   div {
-    width: 200px;
-    height: 200px;
+    width: 120px;
+    height: 120px;
   }
   .text {
     position: absolute;
