@@ -7,7 +7,7 @@ const items = [
     id: 1,
     link: "https://mern-blogger-eb273b6050cf.herokuapp.com/",
     git: "https://github.com/mattmiyata/mern-blog",
-    img: "BloggerImage.PNG",
+    img: "BloggerNewImage.PNG",
     title: "Blogger fullstack MERN Application",
     description:
       "Blogger is a fullstack MERN applicaiton.  It is made in React Vite for the front-end and nodeJS and Express for the back-end and MongoDB for the database server. Any user can create and account to create their own blogs and edit or delete them at will.",
