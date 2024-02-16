@@ -1,9 +1,16 @@
 .hero {
   height: calc(100vh - 100px);
-
   position: relative;
   overflow: hidden;
-
+  animation: fadeIn 1s ease-in;
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
   .wrapper {
     max-width: 960px;
     height: 100%;
