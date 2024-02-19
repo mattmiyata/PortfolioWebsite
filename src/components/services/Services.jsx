@@ -32,8 +32,10 @@ const Services = () => {
         <div className="title">
           <h1>Web Development</h1>
           <p>
-            I'm a full stack web developer focused on creative solutions to
-            problems.{" "}
+            I am a self-taught web developer with a focus on MERN tech stack
+            (MongoDB, Expressjs, Reactjs, Nodejs) based in Chiba Japan. I have a
+            passion for building projects and learning new skills every day.
+            Currently, I am studying WebSockets and WebRTC and data security.{" "}
           </p>
         </div>
       </motion.div>
@@ -50,7 +52,7 @@ const Services = () => {
             <h2>Nodejs</h2>
             <p>
               Nodejs is the core for our backend technologies coupled with
-              express
+              Express
             </p>
           </div>
           <img src="/nodejs.png" alt="js" />
